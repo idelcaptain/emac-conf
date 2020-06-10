@@ -1,0 +1,42 @@
+cd ...
+mv components/App.jjs components/App.js
+ll
+ls --la
+ls -la
+mv features/reducer/ features/reducers
+mv features/reducers/ reducers
+ll
+ls -la
+ls reducers/
+cd ....
+pwd
+ls -ls
+cd rtk-serial/
+ls
+git status
+git add .
+git status
+git diff
+git status
+git commit -m 'udpate'
+git push
+git status
+cd ..
+ll
+ls
+mv tsconfig.json jsconfig.json
+...
+cd ...
+cd ..
+ll
+ls
+ls -l
+mkdir -p rotatecat-app/api 
+mkdir -p rotatecat-app/components
+mkdir -p rotatecat-app/stores
+cd rotatecat-app/stores/
+ls
+mv index.js gif.js
+ll
+ls
+mv DropDrag.tsx DropDragPage.tsx
